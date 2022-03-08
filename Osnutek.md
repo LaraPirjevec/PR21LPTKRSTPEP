@@ -6,9 +6,16 @@ Zakon o pravilih cestnega prometa se neprestano spreminja, pravila so čedalje o
 
 Zanima nas če so spremembe zakonika res potrebne. Glavno vprašanje je "Ali se večina prometnih nesreč zaradi vinjenosti zgodi znotraj dovoljenih meja?".
 
-Raziskave za to vprašanje pa lahko vodijo na odgovore mnoigih drugih, kot so "Ali so ceste bolj varne s strožji ukrepi?", "Kakšen tip nesreče je najbolj pogost zaradi vinjenosti?", "Ali je res vinjenost največji dejavnik v prometnih nesrečah?", "Kakšne so starostne skupine v dotičnih nesrečah?", "Kdaj se take nesreče zgodijo?"itd.
+Raziskave za to vprašanje pa lahko vodijo na odgovore mnogih drugih, kot so:
+ - "Ali so ceste bolj varne s strožji ukrepi?",
+ - "Kakšen tip nesreče je najbolj pogost zaradi vinjenosti?",
+ - "Ali je res vinjenost največji dejavnik v prometnih nesrečah?",
+ - "Kakšne so starostne skupine v dotičnih nesrečah?",
+ - "Kdaj se take nesreče zgodijo?",
+ - itd.
 
 Poleg tega je izredno pomembno vizualizacija teh podatkov za boljše javno razumevanje. 
 Pridobljene informacije nam bojo dale misliti če so kazni primerne oz. če obstaja kakšna boljša rešitev.
 
 Podatke bomo pridobili preko statističnega urada in sicer policijski zapisnik od leta 2009 dalje. Po potrebi bomo še upoštevali statistične podatke za promet na Slovenskih cestah.
+Podatki pa so nam podani v .cvs obliki.
