@@ -1,4 +1,4 @@
-# Vmesno poročilo - Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
+# Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
 
 ## Problem
 Alkohol in njegovi učinki na voznika, je še vedno eden glavnih elementov pri povzročitvi prometnih nesreč. Alkohol omeji naše sposobnosti varnega sodelovanja v prometu, počasnejše zaznavamo, predvidevamo in presodimo situacije. Zato se zaradi vpliva alkohola že pri koncentraciji 0,5 promila verjetnost povzročitve prometne nesreče podvoji, pri 1,1 promila alkohola pa 8-krat poveča v primerjavi s treznim voznikom.
