@@ -31,29 +31,34 @@ Vsa koda se izvaja v nootebooku: https://github.com/LaraPirjevec/PR21LPTKRSTPEP/
 
 Ker so imeli podatki tudi lokacije nesreč, smo le te vizualno predstavili na zemljevidu, kjer je možno tudi videti, kje se te nesreče največkrat zgodijo. 
 
-![alt text](/images/zemljevid.png)
+![alt text](/images/zemljevid.jpg)
 
 Poskusili smo vzpostaviti povezavo med vsebnostjo alkohola v krvi in resnostjo nesreč. 
 Nepresenetljivo so rezultati bili zaskrbljujoči. Možnost za smrt pri treznem vozniku v nesreči je bila 0.63%, pri alkoholiziranem pa 2.24%. Možnost težje poškodbe ali smrt pri treznem vozniku je bila 4.63% pri alkoholiziranem pa 11.07%.
  
-![alt text](/images/podatki.png?raw=true)
+![alt text](/images/podatki.jpg)
 
-![alt text](/images/graf_podatki.png?raw=true)
+![alt text](/images/graf_podatki.jpg)
 
 Naslednji korak je bil točno razvrstiti  število nesreč po količini alkohola v krvi in sicer za nad 0.2; nad; 0.5; in nad 1.1.
 Rezultati so podpirali prejšnje ugotovitve in odgovorili na naše zastavljeno vprašanje, da se večina nesreč pod vplivom alkohola ne zgodi pod omejitvami ampak nad. Med trenutno mejo in mejo, ki jo je priporočila Agencija za varstvo prometa je le 11.66% nesreč, kjer je voznik vinjen.
  
+![alt text](/images/razporeditev_alkohola.jpg)
+ 
 Na vprašanje, kateri tip nesreče je najbolj pogost, smo odgovorili tako, da za vsako nesrečo preverimo najprej vrednost strokovnega pregleda nesreče, če se ta ne razlikuje od nič, pa vrednost alkotesta. Vrednost alkotesta je potrebno tudi pretvoriti iz vrednosti izdihanega zraka, v vrednost alkohola v krvi. 
+
 Pri tem smo izvedeli, da sta 2 najbolj pogosta tipa nesreče v vinjenem stanju trčenje v objekt, ter bočno trčenje.
  
+![alt text](/images/graf_tip_nesrec.jpg)
 
+![alt text](/images/podatki_tip_nesrec.jpg)
 
 
 
 
 Raziskali smo tudi številčno razdeljenost število nesreč po starostih skupinah. Pri tem smo izvedeli, da se je največ nesreč zgodilo pri mlajših in srednjih generacijah.
  
-![alt text](/images/graf_starost.png)
+![alt text](/images/graf_starost.jpg)
 
  
  
