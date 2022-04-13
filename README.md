@@ -22,7 +22,7 @@ Podatki  so nam podani v .cvs obliki, vzeli pa smo podatke za zadnjih 10 let naz
 
 Podatki so nam podani v naslednji obliki: 
 
-![alt text](/images/izgled.png)
+![alt text](/images/izgled.jpg)
  
 Podatki za vsako leto so podani v posebej datoteki, zato pred analizo vse te datoteke preberemo in podatke združimo v en velik seznam slovarjev.
 
