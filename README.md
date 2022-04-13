@@ -57,7 +57,9 @@ Pri tem smo izvedeli, da sta 2 najbolj pogosta tipa nesreče v vinjenem stanju t
 
 
 Raziskali smo tudi številčno razdeljenost število nesreč po starostih skupinah. Pri tem smo izvedeli, da se je največ nesreč zgodilo pri mlajših in srednjih generacijah.
- 
+
+![alt text](/images/podatki_starost.jpg)
+
 ![alt text](/images/graf_starost.jpg)
 
  
