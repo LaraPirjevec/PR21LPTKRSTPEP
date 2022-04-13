@@ -1,6 +1,6 @@
-#Vmesno poročilo - Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
+# Vmesno poročilo - Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
 
-##Problem
+## Problem
 Alkohol in njegovi učinki na voznika, je še vedno eden glavnih elementov pri povzročitvi prometnih nesreč. Alkohol omeji naše sposobnosti varnega sodelovanja v prometu, počasnejše zaznavamo, predvidevamo in presodimo situacije. Zato se zaradi vpliva alkohola že pri koncentraciji 0,5 promila verjetnost povzročitve prometne nesreče podvoji, pri 1,1 promila alkohola pa 8-krat poveča v primerjavi s treznim voznikom.
 Zakoni glede omejitve koncentracije alkohola v krvi se čez leta spreminjajo. Vedno bolj se poostrujejo, ampak zaskrbljujoče je da več kot tretjina voznikov, ki povzročijo smrtno prometno nesrečo, vozi pod vplivom alkohola.
 Leta 2019 je Agencija za varnost prometa (AVP) dala predlog, da bi znižali dovoljene meje alkohola za voznike s sedanjih 0,5 na 0,2 promila alkohola v krvi. Ministrstvu za infrastrukturo pa predlagajo tudi strožjo obravnavo voznikov, ki imajo v krvi več kot 1,1 promila alkohola.
@@ -11,13 +11,15 @@ Zanima nas če so spremembe zakonika res potrebne, pri zmanjšanju nesreč in iz
 -	"Ali je res vinjenost največji dejavnik v prometnih nesrečah?",
 -	"Kakšne so starostne skupine v dotičnih nesrečah?",
 -	"Kdaj se take nesreče zgodijo?"
-##Podatki
+
+## Podatki
 Podatke smo pridobili preko statističnega urada in sicer policijski zapisnik od leta 2009 dalje. 
 Link: https://podatki.gov.si/data/search?open_data=True&all_podrocje=Promet+in+infrastruktura&publisher=ministrstvo_za_notranje_zadeve_policija 
 Prvotni namen zbiranja podatkov je najverjetneje shranjevanje in objektivno prikazovanje podatkov glede prometnih nesreč v Sloveniji. 
 Podatki  so nam podani v .cvs obliki, vzeli pa smo podatke za zadnjih 10 let nazaj, torej od 2011 do 2021. 
 
 Podatki so nam podani v naslednji obliki: 
+
 
 ![alt text](http://url/to/img.png)
  
