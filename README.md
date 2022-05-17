@@ -1,4 +1,5 @@
-# Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
+# Vinjenost in prometne nesreče: je smiselno zaostriti pogoje?
+Podatkovno Rudarjenje 21/22 Skupina 9 Lara Pirjevec, Tilen Kelc, Rok Stanič, Tomaž Plešnik, Erik Poljšak
 
 ## Problem
 Alkohol in njegovi učinki na voznika, je še vedno eden glavnih elementov pri povzročitvi prometnih nesreč. Alkohol omeji naše sposobnosti varnega sodelovanja v prometu, počasnejše zaznavamo, predvidevamo in presodimo situacije. Zato se zaradi vpliva alkohola že pri koncentraciji 0,5 promila verjetnost povzročitve prometne nesreče podvoji, pri 1,1 promila alkohola pa 8-krat poveča v primerjavi s treznim voznikom.
@@ -17,7 +18,7 @@ Podatke smo pridobili preko statističnega urada in sicer policijski zapisnik od
 
 Link: https://podatki.gov.si/data/search?open_data=True&all_podrocje=Promet+in+infrastruktura&publisher=ministrstvo_za_notranje_zadeve_policija 
 
-Prvotni namen zbiranja podatkov je najverjetneje shranjevanje in objektivno prikazovanje podatkov glede prometnih nesreč v Sloveniji. 
+Prvotni namen zbiranja podatkov je shranjevanje in objektivno prikazovanje podatkov glede prometnih nesreč v Sloveniji. 
 Podatki  so nam podani v .cvs obliki, vzeli pa smo podatke za zadnjih 10 let nazaj, torej od 2011 do 2021. 
 
 Podatki so nam podani v naslednji obliki: 
