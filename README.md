@@ -7,11 +7,12 @@ Zakoni glede omejitve koncentracije alkohola v krvi se čez leta spreminjajo. Ve
 Leta 2019 je Agencija za varnost prometa (AVP) dala predlog, da bi znižali dovoljene meje alkohola za voznike s sedanjih 0,5 na 0,2 promila alkohola v krvi. Ministrstvu za infrastrukturo pa predlagajo tudi strožjo obravnavo voznikov, ki imajo v krvi več kot 1,1 promila alkohola.
 
 Zanima nas če so spremembe zakonika res potrebne, pri zmanjšanju nesreč in izboljšanju situacije. Glavno vprašanje je "Ali se večina prometnih nesreč zaradi vinjenosti zgodi znotraj dovoljenih meja?", iz katerega pa sledijo tudi podvprašanja, kot so:
--	 "Ali so ceste bolj varne s strožji ukrepi?",
--	"Kakšen tip nesreče je najbolj pogost zaradi vinjenosti?",
--	"Ali je res vinjenost največji dejavnik v prometnih nesrečah?",
--	"Kakšne so starostne skupine v dotičnih nesrečah?",
--	"Kdaj se take nesreče zgodijo?"
+- Ali so ceste bolj varne s strožji ukrepi?,
+- Kakšen tip nesreče je najbolj pogost zaradi vinjenosti?,
+- Kakšne so starostne skupine v dotičnih nesrečah?,
+- Kdaj se take nesreče zgodijo?,
+- Ali obstaja povezava med vsebnostjo alkohola in resnostjo nesreč?,
+- Kakšna je odvisnost števila nesreč od količine prometa, seveda še vedno v kontekstu vinjenih voznikov?
 
 ## Podatki
 Podatke smo pridobili preko statističnega urada in sicer policijski zapisnik od leta 2009 dalje. 
